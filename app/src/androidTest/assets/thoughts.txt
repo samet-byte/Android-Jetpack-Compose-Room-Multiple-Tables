@@ -1,0 +1,14 @@
+Entity
+
+Coach
+Team
+Player
+Position
+
+
+Coach - Team // 1 - 1
+
+Team - Player // 1 - n
+
+Player - Position // m - n
+
